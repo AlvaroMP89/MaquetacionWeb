@@ -1,0 +1,97 @@
+.pagina-principal {
+    padding-top: 60px;  /* Agrega espacio en la parte superior de la página principal para separar contenido */
+}
+
+.logo {
+    height: 150px;  /* Define una altura fija para el logo */
+    text-align: center;  /* Centra el contenido del logo horizontalmente */
+}
+
+.imagen-central {
+    width: 100%;  /* Ocupa todo el ancho disponible */
+    overflow: hidden;  /* Oculta cualquier contenido que se salga del área */
+    display: flex;  /* Aplica flexbox para facilitar la alineación y distribución */
+}
+
+.imagen-central img {
+    width: 100%;  /* Ajusta la imagen al ancho completo del contenedor */
+    height: auto;  /* Mantiene la proporción de la imagen */
+    display: block;  /* Elimina el espacio blanco en la imagen dentro del contenedor */
+}
+
+.navegacion-seccion {
+    background-color: #ff0000;  /* Color de fondo rojo para la sección de navegación */
+    color: white;  /* Texto blanco */
+    padding: 20px 0;  /* Espacio arriba y abajo de la navegación */
+}
+
+nav {
+    display: flex;  /* Aplica flexbox a la barra de navegación */
+    justify-content: center;  /* Centra los elementos horizontalmente */
+}
+
+.navegacion {
+    display: flex;  /* Flexbox para los elementos de la lista de navegación */
+    gap: 20px;  /* Espacio entre los elementos */
+    list-style: none;  /* Elimina las viñetas de la lista */
+    padding: 0;  /* Elimina el padding por defecto */
+    margin: 0;  /* Elimina el margen por defecto */
+}
+
+.navegacion a {
+    color: white;  /* Texto blanco en los enlaces */
+    text-decoration: none;  /* Elimina el subrayado de los enlaces */
+}
+
+.contenido-principal {
+    display: flex;  /* Flexbox para organizar el contenido en dos columnas */
+    padding: 20px;  /* Espacio alrededor de la sección de contenido */
+}
+
+.imagen-contenido {
+    width: 50%;  /* Ocupa la mitad del contenedor principal */
+    margin-right: 20px;  /* Espacio a la derecha entre la imagen y el texto */
+    font-weight: bold;  /* Texto en negrita */
+}
+
+.imagen-principal {
+    width: 100%;  /* La imagen ocupa el 100% del ancho del contenedor */
+}
+
+.titulo-seccion {
+    margin-top: 10px;  /* Espacio superior para separar el título de la imagen */
+}
+
+.texto-contenido {
+    flex: 1;  /* Ocupa el espacio restante en el contenedor */
+}
+
+.boton-ver-mas {
+    background-color: #ff0000;  /* Fondo rojo */
+    color: white;  /* Texto blanco */
+    border: none;  /* Sin borde */
+    padding: 10px 20px;  /* Espacio interno del botón */
+}
+
+.pie-imagenes {
+    display: flex;  /* Flexbox para alinear las imágenes en el pie */
+    justify-content: space-between;  /* Distribuye las imágenes con espacio entre ellas */
+    padding: 20px 0;  /* Espacio superior e inferior */
+    font-weight: bold;  /* Texto en negrita */
+}
+
+.imagen-pie {
+    width: 32%;  /* Cada imagen del pie ocupa aproximadamente un tercio del ancho */
+    text-align: left;  /* Alinea el contenido de la imagen a la izquierda */
+}
+
+.imagen-pie-src {
+    width: 100%;  /* La imagen ocupa el ancho completo del contenedor */
+}
+
+.boton-comprar {
+    background-color: #ff0000;  /* Fondo rojo */
+    color: white;  /* Texto blanco */
+    border: none;  /* Sin borde */
+    padding: 10px 20px;  /* Espacio interno del botón */
+}
