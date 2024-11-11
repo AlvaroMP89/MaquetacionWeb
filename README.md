@@ -21,8 +21,3 @@ Este proyecto es una maquetación web creada con **JavaScript** y **CSS**, dise�
 - **styles.css**: Archivo de estilos donde se define el diseño de la página.
 - **app.js**: Script de JavaScript para añadir la interactividad de la interfaz.
 
-## Instalación y Uso
-
-1. Clona el repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/tuusuario/nombre-del-repositorio.git
