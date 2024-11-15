@@ -1,23 +1,32 @@
-# Proyecto de Maquetación Web
+# 🌐 **Proyecto de Maquetación Web**
 
-Este proyecto es una maquetación web creada con **JavaScript** y **CSS**, diseñada para ofrecer una experiencia de usuario atractiva y funcional. El objetivo principal es demostrar buenas prácticas de desarrollo front-end en el uso de estilos y scripts para construir una interfaz intuitiva y receptiva.
+Un proyecto de maquetación web desarrollado con **JavaScript** y **CSS**, diseñado para brindar una experiencia de usuario atractiva, funcional e intuitiva. Este proyecto destaca las buenas prácticas en el desarrollo front-end, combinando estilos modernos y scripts interactivos para construir una interfaz receptiva.
 
-## Características
+---
 
-- **Estructura Clara y Organizada**: Código estructurado para fácil comprensión y mantenimiento.
-- **Diseño Responsivo**: Adaptación automática a distintos tamaños de pantalla para una experiencia de usuario óptima en dispositivos móviles y de escritorio.
-- **Interactividad con JavaScript**: Elementos interactivos para mejorar la dinámica de la interfaz y la usabilidad.
-- **Estilos Personalizados con CSS**: Uso de CSS para definir una estética moderna y visualmente coherente.
+## ✨ **Características**
 
-## Tecnologías Utilizadas
+- 📂 **Estructura Clara y Organizada**: Código bien estructurado para facilitar su comprensión y mantenimiento.  
+- 📱 **Diseño Responsivo**: La página se adapta automáticamente a diferentes tamaños de pantalla, ofreciendo una experiencia óptima en dispositivos móviles y de escritorio.  
+- ⚡ **Interactividad con JavaScript**: Elementos dinámicos que enriquecen la experiencia de usuario.  
+- 🎨 **Estilos Personalizados con CSS**: Diseño moderno y consistente utilizando estilos propios.  
 
-- **HTML**: Estructura base del proyecto.
-- **CSS**: Diseño y estilización de todos los elementos visuales.
-- **JavaScript**: Agregado de funcionalidad e interactividad en la interfaz.
+---
 
-## Estructura del Proyecto
+## 🛠️ **Tecnologías Utilizadas**
 
-- **index.html**: Contiene la estructura principal de la maquetación.
-- **styles.css**: Archivo de estilos donde se define el diseño de la página.
-- **app.js**: Script de JavaScript para añadir la interactividad de la interfaz.
+- 🖋️ **HTML**: Define la estructura base del proyecto.  
+- 🎨 **CSS**: Personaliza la apariencia y el diseño visual de la página.  
+- 🖱️ **JavaScript**: Proporciona interactividad y funcionalidad dinámica.  
+
+---
+
+## 📂 **Estructura del Proyecto**
+
+```plaintext
+📁 Proyecto de Maquetación Web
+ ├── index.html   # Estructura principal de la página.
+ ├── styles.css   # Estilos personalizados.
+ └── app.js       # Script para funcionalidades interactivas.
+
 
