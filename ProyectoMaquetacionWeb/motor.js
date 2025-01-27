@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
 
      // ELEMENTO PRINCIPAL DE LA PÁGINA
-    const paginaPrincipal = document.createElement('div');  // Crea un elemento <div> que será el contenedor principal
-    paginaPrincipal.className = 'pagina-principal';  // Le asigna la clase 'pagina-principal' para estilos
+    const paginaPrincipal = document.createElement('div'); 
+    paginaPrincipal.className = 'pagina-principal'; 
 
 
     // SECCIÓN DEL LOGO
